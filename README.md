@@ -1,2 +1,5 @@
 # -hello-world
-Just another repository
+
+Hi, Keith here.
+
+Life is short, I use Python.
